@@ -1,0 +1,21 @@
+.bkg {
+  background-image: url("../image/1644403915_252815_1644405384_noticia_normal.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+.button {
+  border-radius: 10px;
+  border-color: transparent;
+  font-size: 23px;
+  padding: 9px 23px 9px 23px;
+  text-decoration: none;
+  margin-top: 100px;
+  margin-left: 670px;
+  background-color: rgba(255, 255, 255, 0.658);
+  cursor: pointer;
+}

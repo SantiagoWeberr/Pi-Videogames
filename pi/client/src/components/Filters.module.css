@@ -1,0 +1,30 @@
+.filtersConteiner {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center ;
+    right: 8px;
+    top :8px;
+    margin-left: 5px;
+}
+
+.select{
+    border-radius: 5px;
+    font-family: italic;
+    color: #000000;
+    font-size: 14px;
+    padding:  3px 5px 3px 5px ;
+    text-decoration: none;
+    cursor: pointer;
+    display:inline-block;
+    justify-content: center;
+    text-align: center;
+    border-color: transparent;
+    background-color: lightgray;
+    margin-left: 15px;
+}
+.create{
+    border-radius: 5px;
+    border-color: transparent;
+    color:black;
+}

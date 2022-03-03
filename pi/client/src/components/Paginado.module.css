@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px ;
+    height: 25px;
+    width: 25px;
+    border: transparent;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    cursor: pointer;
+    background-color: lightgray
+}
+.todo{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    color: rgb(24, 24, 24);
+    
+}

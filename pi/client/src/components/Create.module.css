@@ -1,0 +1,58 @@
+.btn {
+  border-radius: 5px;
+  border-color: transparent;
+  color: black;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.548);
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.bkg {
+  background-color: lightgray;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+}
+.genre {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.btnx {
+  background-color: red;
+  color: white;
+  border-color: transparent;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+.labelGenre {
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: inline-block;
+  text-align: center;
+}
+.errors {
+  color: rgb(255, 0, 0);
+  background-color: rgb(246, 223, 223);
+  display: flex;
+  border-radius: 10px;
+  padding: 10px 15px 10px 15px;
+}
+.container{
+    display: flex;
+    justify-content:flex-start;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin-top: 85px;
+}
